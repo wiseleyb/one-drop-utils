@@ -1,0 +1,498 @@
+Date/Time,Moment Type,Measurement,Unit,Med Name,Type,Note,Tags,Location,Date/Time (ISO)
+2017/04/25 09:07:24,Movement,4.12,minutes,,Easy,"Data from pedometer: 3 steps",,,2017-04-25T16:07:24Z
+2017/04/25 18:09:18,Movement,18.78,minutes,,Easy,"Data from pedometer: 1,436 steps",,,2017-04-26T01:09:18Z
+2017/04/25 18:32:53,Movement,13.06,minutes,,Easy,"Data from pedometer: 706 steps",,,2017-04-26T01:32:53Z
+2017/04/25 20:04:38,Movement,26.53,minutes,,Easy,"Data from pedometer: 2,589 steps",,,2017-04-26T03:04:38Z
+2017/04/26 17:58:18,Movement,6.15,minutes,,Easy,"Data from pedometer: 85 steps",,,2017-04-27T00:58:18Z
+2017/04/26 19:34:00,Movement,4.03,minutes,,Easy,"Data from pedometer: 3 steps",,,2017-04-27T02:34:00Z
+2017/04/27 08:56:24,Movement,4.59,minutes,,Easy,"Data from pedometer: 19 steps",,,2017-04-27T15:56:24Z
+2017/04/27 12:20:21,Movement,6.45,minutes,,Easy,"Data from pedometer: 159 steps",,,2017-04-27T19:20:21Z
+2017/04/27 12:43:23,Movement,6.87,minutes,,Easy,"Data from pedometer: 257 steps",,,2017-04-27T19:43:23Z
+2017/04/28 16:01:39,Movement,3.46,minutes,,Easy,"Data from pedometer: 62 steps",,,2017-04-28T23:01:39Z
+2017/04/28 16:08:41,Movement,14.26,minutes,,Easy,"Data from pedometer: 452 steps",,,2017-04-28T23:08:41Z
+2017/04/28 16:26:17,Movement,19.55,minutes,,Easy,"Data from pedometer: 784 steps",,,2017-04-28T23:26:17Z
+2017/04/29 15:19:58,Movement,3.09,minutes,,Easy,"Data from pedometer: 111 steps",,,2017-04-29T22:19:58Z
+2017/04/29 15:26:12,Movement,18.23,minutes,,Easy,"Data from pedometer: 1,227 steps",,,2017-04-29T22:26:12Z
+2017/04/30 12:39:46,Movement,9.55,minutes,,Easy,"Data from pedometer: 125 steps",,,2017-04-30T19:39:46Z
+2017/04/30 13:03:52,Movement,4.83,minutes,,Easy,"Data from pedometer: 145 steps",,,2017-04-30T20:03:52Z
+2017/04/30 13:11:52,Movement,5.25,minutes,,Easy,"Data from pedometer: 228 steps",,,2017-04-30T20:11:52Z
+2017/04/30 13:25:22,Movement,5.58,minutes,,Easy,"Data from pedometer: 370 steps",,,2017-04-30T20:25:22Z
+2017/04/30 13:35:49,Movement,9.25,minutes,,Easy,"Data from pedometer: 240 steps",,,2017-04-30T20:35:49Z
+2017/04/30 15:45:09,Movement,21.08,minutes,,Easy,"Data from pedometer: 679 steps",,,2017-04-30T22:45:09Z
+2017/05/01 06:55:12,Blood Glucose,184.00,mg/dL,,,,,,2017-05-01T13:55:12Z
+2017/05/02 13:14:30,Movement,3.33,minutes,,Easy,"Data from pedometer: 83 steps",,,2017-05-02T20:14:30Z
+2017/05/02 13:28:50,Movement,21.24,minutes,,Easy,"Data from pedometer: 976 steps",,,2017-05-02T20:28:50Z
+2017/05/02 14:20:52,Blood Glucose,274.00,mg/dL,,,,,,2017-05-02T21:20:52Z
+2017/05/17 19:22:39,Movement,9.47,minutes,,Easy,"Data from pedometer: 78 steps",,,2017-05-18T02:22:39Z
+2017/05/17 20:12:50,Movement,19.17,minutes,,Easy,"Data from pedometer: 956 steps",,,2017-05-18T03:12:50Z
+2017/05/19 14:24:55,Movement,14.70,minutes,,Easy,"Data from pedometer: 568 steps",,,2017-05-19T21:24:55Z
+2017/05/20 05:17:10,Movement,12.50,minutes,,Easy,"Data from pedometer: 211 steps",,,2017-05-20T12:17:10Z
+2017/05/20 06:23:42,Movement,13.89,minutes,,Easy,"Data from pedometer: 656 steps",,,2017-05-20T13:23:42Z
+2017/05/20 06:38:19,Movement,36.40,minutes,,Easy,"Data from pedometer: 1,107 steps",,,2017-05-20T13:38:19Z
+2017/05/20 07:33:06,Movement,9.80,minutes,,Easy,"Data from pedometer: 1,028 steps",,,2017-05-20T14:33:06Z
+2017/05/20 07:43:09,Movement,10.21,minutes,,Easy,"Data from pedometer: 821 steps",,,2017-05-20T14:43:09Z
+2017/05/20 07:58:27,Movement,9.75,minutes,,Easy,"Data from pedometer: 691 steps",,,2017-05-20T14:58:27Z
+2017/05/21 11:27:20,Movement,7.22,minutes,,Easy,"Data from pedometer: 139 steps",,,2017-05-21T18:27:20Z
+2017/05/21 11:47:45,Movement,20.38,minutes,,Easy,"Data from pedometer: 872 steps",,,2017-05-21T18:47:45Z
+2017/05/21 12:11:48,Movement,16.74,minutes,,Easy,"Data from pedometer: 1,037 steps",,,2017-05-21T19:11:48Z
+2017/05/21 12:48:38,Movement,23.59,minutes,,Easy,"Data from pedometer: 1,438 steps",,,2017-05-21T19:48:38Z
+2017/05/21 13:19:39,Movement,29.48,minutes,,Easy,"Data from pedometer: 1,495 steps",,,2017-05-21T20:19:39Z
+2017/05/22 16:19:30,Movement,3.90,minutes,,Easy,"Data from pedometer: 149 steps",,,2017-05-22T23:19:30Z
+2017/05/22 16:27:39,Movement,9.22,minutes,,Easy,"Data from pedometer: 368 steps",,,2017-05-22T23:27:39Z
+2017/05/24 10:54:25,Movement,19.31,minutes,,Easy,"Data from pedometer: 755 steps",,,2017-05-24T17:54:25Z
+2017/05/25 07:23:15,Blood Glucose,174.00,mg/dL,,,,,,2017-05-25T14:23:15Z
+2017/05/25 13:55:35,Movement,4.66,minutes,,Easy,"Data from pedometer: 69 steps",,,2017-05-25T20:55:35Z
+2017/05/25 14:03:25,Movement,8.06,minutes,,Easy,"Data from pedometer: 215 steps",,,2017-05-25T21:03:25Z
+2017/05/25 15:04:19,Movement,5.78,minutes,,Easy,"Data from pedometer: 258 steps",,,2017-05-25T22:04:19Z
+2017/05/25 15:17:04,Movement,3.35,minutes,,Easy,"Data from pedometer: 72 steps",,,2017-05-25T22:17:04Z
+2017/05/25 15:23:29,Movement,10.60,minutes,,Easy,"Data from pedometer: 359 steps",,,2017-05-25T22:23:29Z
+2017/05/25 16:45:15,Movement,4.01,minutes,,Easy,"Data from pedometer: 28 steps",,,2017-05-25T23:45:15Z
+2017/05/25 16:55:59,Movement,4.25,minutes,,Easy,"Data from pedometer: 32 steps",,,2017-05-25T23:55:59Z
+2017/05/25 17:19:44,Movement,6.89,minutes,,Easy,"Data from pedometer: 353 steps",,,2017-05-26T00:19:44Z
+2017/05/25 17:31:40,Movement,3.22,minutes,,Easy,"Data from pedometer: 35 steps",,,2017-05-26T00:31:40Z
+2017/05/25 17:41:09,Movement,6.89,minutes,,Easy,"Data from pedometer: 489 steps",,,2017-05-26T00:41:09Z
+2017/05/26 08:39:48,Movement,7.92,minutes,,Easy,"Data from pedometer: 300 steps",,,2017-05-26T15:39:48Z
+2017/05/26 16:08:09,Movement,3.33,minutes,,Easy,"Data from pedometer: 11 steps",,,2017-05-26T23:08:09Z
+2017/05/26 16:20:12,Movement,9.43,minutes,,Easy,"Data from pedometer: 497 steps",,,2017-05-26T23:20:12Z
+2017/05/26 16:36:06,Movement,3.31,minutes,,Easy,"Data from pedometer: 288 steps",,,2017-05-26T23:36:06Z
+2017/05/26 19:21:33,Movement,5.61,minutes,,Easy,"Data from pedometer: 196 steps",,,2017-05-27T02:21:33Z
+2017/05/27 07:56:57,Movement,13.91,minutes,,Easy,"Data from pedometer: 442 steps",,,2017-05-27T14:56:57Z
+2017/05/27 08:12:35,Movement,9.47,minutes,,Easy,"Data from pedometer: 394 steps",,,2017-05-27T15:12:35Z
+2017/05/27 10:19:50,Movement,9.52,minutes,,Easy,"Data from pedometer: 376 steps",,,2017-05-27T17:19:50Z
+2017/05/27 15:16:18,Movement,31.46,minutes,,Easy,"Data from pedometer: 1,303 steps",,,2017-05-27T22:16:18Z
+2017/05/27 15:56:42,Movement,8.68,minutes,,Easy,"Data from pedometer: 222 steps",,,2017-05-27T22:56:42Z
+2017/05/27 16:57:58,Movement,16.67,minutes,,Easy,"Data from pedometer: 376 steps",,,2017-05-27T23:57:58Z
+2017/05/28 10:29:44,Movement,11.91,minutes,,Easy,"Data from pedometer: 267 steps",,,2017-05-28T17:29:44Z
+2017/05/28 12:54:56,Movement,11.73,minutes,,Easy,"Data from pedometer: 346 steps",,,2017-05-28T19:54:56Z
+2017/05/28 13:21:45,Movement,3.10,minutes,,Easy,"Data from pedometer: 62 steps",,,2017-05-28T20:21:45Z
+2017/05/28 15:50:44,Movement,4.26,minutes,,Easy,"Data from pedometer: 53 steps",,,2017-05-28T22:50:44Z
+2017/05/28 15:58:35,Movement,6.94,minutes,,Easy,"Data from pedometer: 180 steps",,,2017-05-28T22:58:35Z
+2017/05/28 16:16:16,Movement,3.04,minutes,,Easy,"Data from pedometer: 19 steps",,,2017-05-28T23:16:16Z
+2017/05/28 17:47:15,Movement,4.15,minutes,,Easy,"Data from pedometer: 106 steps",,,2017-05-29T00:47:15Z
+2017/05/28 20:23:13,Movement,6.62,minutes,,Easy,"Data from pedometer: 70 steps",,,2017-05-29T03:23:13Z
+2017/05/28 20:32:55,Movement,6.36,minutes,,Easy,"Data from pedometer: 59 steps",,,2017-05-29T03:32:55Z
+2017/05/29 07:42:31,Blood Glucose,167.00,mg/dL,,,,,,2017-05-29T14:42:31Z
+2017/05/29 07:42:53,Blood Glucose,188.00,mg/dL,,,,,,2017-05-29T14:42:53Z
+2017/05/29 11:15:47,Movement,3.08,minutes,,Easy,"Data from pedometer: 37 steps",,,2017-05-29T18:15:47Z
+2017/05/29 11:22:27,Movement,3.38,minutes,,Easy,"Data from pedometer: 20 steps",,,2017-05-29T18:22:27Z
+2017/05/29 11:34:05,Movement,3.17,minutes,,Easy,"Data from pedometer: 33 steps",,,2017-05-29T18:34:05Z
+2017/05/29 11:37:35,Movement,5.00,minutes,,Easy,"Data from pedometer: 42 steps",,,2017-05-29T18:37:35Z
+2017/05/29 13:38:19,Movement,5.13,minutes,,Easy,"Data from pedometer: 146 steps",,,2017-05-29T20:38:19Z
+2017/05/29 13:48:02,Movement,10.24,minutes,,Easy,"Data from pedometer: 176 steps",,,2017-05-29T20:48:02Z
+2017/05/29 14:08:04,Movement,4.68,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-05-29T21:08:04Z
+2017/05/29 15:06:25,Movement,5.10,minutes,,Easy,"Data from pedometer: 69 steps",,,2017-05-29T22:06:25Z
+2017/05/29 15:26:53,Movement,8.33,minutes,,Easy,"Data from pedometer: 112 steps",,,2017-05-29T22:26:53Z
+2017/05/29 15:49:51,Movement,4.25,minutes,,Easy,"Data from pedometer: 49 steps",,,2017-05-29T22:49:51Z
+2017/05/29 16:14:36,Movement,4.45,minutes,,Easy,"Data from pedometer: 53 steps",,,2017-05-29T23:14:36Z
+2017/05/30 06:04:55,Blood Glucose,168.00,mg/dL,,,,,,2017-05-30T13:04:55Z
+2017/05/30 15:12:55,Movement,3.47,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-05-30T22:12:55Z
+2017/05/30 15:21:23,Movement,6.85,minutes,,Easy,"Data from pedometer: 118 steps",,,2017-05-30T22:21:23Z
+2017/05/30 16:19:57,Movement,17.71,minutes,,Easy,"Data from pedometer: 1,235 steps",,,2017-05-30T23:19:57Z
+2017/05/30 16:59:12,Movement,3.33,minutes,,Easy,"Data from pedometer: 212 steps",,,2017-05-30T23:59:12Z
+2017/05/30 18:12:55,Movement,3.29,minutes,,Easy,"Data from pedometer: 70 steps",,,2017-05-31T01:12:55Z
+2017/05/30 18:35:43,Movement,6.33,minutes,,Easy,"Data from pedometer: 85 steps",,,2017-05-31T01:35:43Z
+2017/05/30 18:53:06,Movement,8.78,minutes,,Easy,"Data from pedometer: 204 steps",,,2017-05-31T01:53:06Z
+2017/05/30 19:30:34,Blood Glucose,238.00,mg/dL,,,,,,2017-05-31T02:30:34Z
+2017/05/31 06:06:35,Blood Glucose,151.00,mg/dL,,,,,,2017-05-31T13:06:35Z
+2017/05/31 14:23:18,Movement,4.62,minutes,,Easy,"Data from pedometer: 154 steps",,,2017-05-31T21:23:18Z
+2017/05/31 14:31:00,Movement,17.38,minutes,,Easy,"Data from pedometer: 353 steps",,,2017-05-31T21:31:00Z
+2017/05/31 14:57:42,Movement,10.42,minutes,,Easy,"Data from pedometer: 147 steps",,,2017-05-31T21:57:42Z
+2017/05/31 15:16:04,Movement,32.36,minutes,,Easy,"Data from pedometer: 526 steps",,,2017-05-31T22:16:04Z
+2017/05/31 15:54:25,Movement,5.63,minutes,,Easy,"Data from pedometer: 137 steps",,,2017-05-31T22:54:25Z
+2017/05/31 17:04:50,Blood Glucose,260.00,mg/dL,,,,,,2017-06-01T00:04:50Z
+2017/06/01 09:04:09,Movement,15.71,minutes,,Easy,"Data from pedometer: 386 steps",,,2017-06-01T16:04:09Z
+2017/06/02 18:13:32,Movement,5.82,minutes,,Easy,"Data from pedometer: 6 steps",,,2017-06-03T01:13:32Z
+2017/06/03 07:49:13,Movement,10.59,minutes,,Easy,"Data from pedometer: 202 steps",,,2017-06-03T14:49:13Z
+2017/06/03 08:04:04,Movement,8.68,minutes,,Easy,"Data from pedometer: 227 steps",,,2017-06-03T15:04:04Z
+2017/06/03 08:21:57,Movement,7.25,minutes,,Easy,"Data from pedometer: 142 steps",,,2017-06-03T15:21:57Z
+2017/06/03 10:21:20,Movement,4.59,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-06-03T17:21:20Z
+2017/06/03 11:00:02,Movement,8.92,minutes,,Easy,"Data from pedometer: 50 steps",,,2017-06-03T18:00:02Z
+2017/06/03 12:38:06,Movement,6.98,minutes,,Easy,"Data from pedometer: 19 steps",,,2017-06-03T19:38:06Z
+2017/06/03 14:10:54,Movement,6.51,minutes,,Easy,"Data from pedometer: 24 steps",,,2017-06-03T21:10:54Z
+2017/06/03 14:42:21,Movement,3.21,minutes,,Easy,"Data from pedometer: 6 steps",,,2017-06-03T21:42:21Z
+2017/06/04 11:53:18,Movement,8.46,minutes,,Easy,"Data from pedometer: 133 steps",,,2017-06-04T18:53:18Z
+2017/06/04 12:45:10,Movement,14.81,minutes,,Easy,"Data from pedometer: 799 steps",,,2017-06-04T19:45:10Z
+2017/06/04 17:33:20,Movement,3.63,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-06-05T00:33:20Z
+2017/06/05 12:34:55,Movement,13.86,minutes,,Easy,"Data from pedometer: 393 steps",,,2017-06-05T19:34:55Z
+2017/06/05 18:52:39,Movement,5.33,minutes,,Easy,"Data from pedometer: 57 steps",,,2017-06-06T01:52:39Z
+2017/06/07 05:25:37,Movement,7.25,minutes,,Easy,"Data from pedometer: 233 steps",,,2017-06-07T12:25:37Z
+2017/06/07 06:40:43,Movement,3.73,minutes,,Easy,"Data from pedometer: 27 steps",,,2017-06-07T13:40:43Z
+2017/06/07 16:08:52,Movement,25.20,minutes,,Easy,"Data from pedometer: 1,815 steps",,,2017-06-07T23:08:52Z
+2017/06/07 17:09:40,Movement,10.49,minutes,,Easy,"Data from pedometer: 522 steps",,,2017-06-08T00:09:40Z
+2017/06/08 04:14:01,Movement,5.90,minutes,,Easy,"Data from pedometer: 158 steps",,,2017-06-08T11:14:01Z
+2017/06/08 07:18:57,Movement,4.21,minutes,,Easy,"Data from pedometer: 97 steps",,,2017-06-08T14:18:57Z
+2017/06/09 16:56:41,Movement,38.62,minutes,,Easy,"Data from pedometer: 1,212 steps",,,2017-06-09T23:56:41Z
+2017/06/09 19:47:20,Movement,13.77,minutes,,Easy,"Data from pedometer: 185 steps",,,2017-06-10T02:47:20Z
+2017/06/09 20:12:36,Movement,6.62,minutes,,Easy,"Data from pedometer: 132 steps",,,2017-06-10T03:12:36Z
+2017/06/09 20:32:13,Movement,12.11,minutes,,Easy,"Data from pedometer: 243 steps",,,2017-06-10T03:32:13Z
+2017/06/10 05:39:58,Blood Glucose,104.00,mg/dL,,,,,,2017-06-10T12:39:58Z
+2017/06/10 05:42:36,Blood Glucose,104.00,mg/dL,,,,,,2017-06-10T12:42:36Z
+2017/06/10 09:34:26,Movement,4.00,minutes,,Easy,"Data from pedometer: 53 steps",,,2017-06-10T16:34:26Z
+2017/06/10 09:55:26,Movement,4.86,minutes,,Easy,"Data from pedometer: 197 steps",,,2017-06-10T16:55:26Z
+2017/06/10 11:48:20,Movement,3.67,minutes,,Easy,"Data from pedometer: 197 steps",,,2017-06-10T18:48:20Z
+2017/06/10 12:01:51,Movement,4.03,minutes,,Easy,"Data from pedometer: 336 steps",,,2017-06-10T19:01:51Z
+2017/06/10 12:15:08,Movement,10.69,minutes,,Easy,"Data from pedometer: 438 steps",,,2017-06-10T19:15:08Z
+2017/06/10 13:16:54,Movement,3.92,minutes,,Easy,"Data from pedometer: 216 steps",,,2017-06-10T20:16:54Z
+2017/06/10 13:28:29,Movement,4.26,minutes,,Easy,"Data from pedometer: 238 steps",,,2017-06-10T20:28:29Z
+2017/06/10 17:51:17,Movement,8.04,minutes,,Easy,"Data from pedometer: 98 steps",,,2017-06-11T00:51:17Z
+2017/06/11 02:45:06,Blood Glucose,91.00,mg/dL,,,,,,2017-06-11T09:45:06Z
+2017/06/11 13:03:04,Blood Glucose,112.00,mg/dL,,,,,,2017-06-11T20:03:04Z
+2017/06/12 05:09:07,Blood Glucose,116.00,mg/dL,,,,,,2017-06-12T12:09:07Z
+2017/06/12 13:03:17,Movement,8.26,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-06-12T20:03:17Z
+2017/06/12 20:16:01,Blood Glucose,123.00,mg/dL,,,,,,2017-06-13T03:16:01Z
+2017/06/12 21:39:50,Food,0.00,g,,,,,,2017-06-13T04:39:50Z
+2017/06/12 21:42:41,Food,20.00,g,,,,,,2017-06-13T04:42:41Z
+2017/06/12 21:45:04,Food,20.00,g,,,,,,2017-06-13T04:45:04Z
+2017/06/12 21:46:03,Food,59.00,g,,,,,,2017-06-13T04:46:03Z
+2017/06/13 04:37:50,Blood Glucose,113.00,mg/dL,,,,,,2017-06-13T11:37:50Z
+2017/06/13 04:38:08,Blood Glucose,113.00,mg/dL,,,,,,2017-06-13T11:38:08Z
+2017/06/13 13:18:55,Movement,3.73,minutes,,Easy,"Data from pedometer: 83 steps",,,2017-06-13T20:18:55Z
+2017/06/13 13:29:59,Movement,22.63,minutes,,Easy,"Data from pedometer: 735 steps",,,2017-06-13T20:29:59Z
+2017/06/14 05:14:45,Blood Glucose,94.00,mg/dL,,,,,,2017-06-14T12:14:45Z
+2017/06/15 07:36:27,Blood Glucose,113.00,mg/dL,,,,,,2017-06-15T14:36:27Z
+2017/06/15 13:06:56,Blood Glucose,196.00,mg/dL,,,,,,2017-06-15T20:06:56Z
+2017/06/15 14:47:50,Movement,3.25,minutes,,Easy,"Data from pedometer: 35 steps",,,2017-06-15T21:47:50Z
+2017/06/15 15:58:16,Movement,15.86,minutes,,Easy,"Data from pedometer: 636 steps",,,2017-06-15T22:58:16Z
+2017/06/15 16:33:38,Movement,5.32,minutes,,Easy,"Data from pedometer: 362 steps",,,2017-06-15T23:33:38Z
+2017/06/15 20:57:28,Blood Glucose,199.00,mg/dL,,,,,,2017-06-16T03:57:28Z
+2017/06/16 02:57:36,Blood Glucose,173.00,mg/dL,,,,,,2017-06-16T09:57:36Z
+2017/06/16 04:57:02,Movement,21.18,minutes,,Easy,"Data from pedometer: 468 steps",,,2017-06-16T11:57:02Z
+2017/06/16 06:13:04,Movement,25.75,minutes,,Easy,"Data from pedometer: 1,077 steps",,,2017-06-16T13:13:04Z
+2017/06/16 13:32:57,Movement,8.05,minutes,,Easy,"Data from pedometer: 367 steps",,,2017-06-16T20:32:57Z
+2017/06/16 14:05:47,Movement,6.43,minutes,,Easy,"Data from pedometer: 128 steps",,,2017-06-16T21:05:47Z
+2017/06/16 16:05:44,Movement,5.76,minutes,,Easy,"Data from pedometer: 165 steps",,,2017-06-16T23:05:44Z
+2017/06/17 04:48:33,Blood Glucose,103.00,mg/dL,,,,,,2017-06-17T11:48:33Z
+2017/06/17 08:30:34,Movement,3.24,minutes,,Easy,"Data from pedometer: 45 steps",,,2017-06-17T15:30:34Z
+2017/06/17 09:05:11,Movement,3.03,minutes,,Easy,"Data from pedometer: 88 steps",,,2017-06-17T16:05:11Z
+2017/06/17 09:15:05,Movement,15.96,minutes,,Easy,"Data from pedometer: 630 steps",,,2017-06-17T16:15:05Z
+2017/06/17 09:34:37,Movement,3.85,minutes,,Easy,"Data from pedometer: 49 steps",,,2017-06-17T16:34:37Z
+2017/06/17 10:07:49,Movement,12.71,minutes,,Easy,"Data from pedometer: 646 steps",,,2017-06-17T17:07:49Z
+2017/06/17 10:26:26,Movement,15.87,minutes,,Easy,"Data from pedometer: 852 steps",,,2017-06-17T17:26:26Z
+2017/06/17 10:43:41,Movement,7.70,minutes,,Easy,"Data from pedometer: 401 steps",,,2017-06-17T17:43:41Z
+2017/06/17 11:04:50,Movement,9.37,minutes,,Easy,"Data from pedometer: 224 steps",,,2017-06-17T18:04:50Z
+2017/06/17 13:46:31,Movement,4.83,minutes,,Easy,"Data from pedometer: 228 steps",,,2017-06-17T20:46:31Z
+2017/06/17 14:12:05,Movement,10.45,minutes,,Easy,"Data from pedometer: 643 steps",,,2017-06-17T21:12:05Z
+2017/06/17 14:25:38,Movement,3.85,minutes,,Easy,"Data from pedometer: 72 steps",,,2017-06-17T21:25:38Z
+2017/06/17 15:52:15,Movement,5.53,minutes,,Easy,"Data from pedometer: 507 steps",,,2017-06-17T22:52:15Z
+2017/06/17 22:01:31,Blood Glucose,94.00,mg/dL,,,,,,2017-06-18T05:01:31Z
+2017/06/18 05:35:36,Blood Glucose,100.00,mg/dL,,,,,,2017-06-18T12:35:36Z
+2017/06/19 06:55:06,Blood Glucose,111.00,mg/dL,,,,,,2017-06-19T13:55:06Z
+2017/06/19 08:08:14,Movement,3.25,minutes,,Easy,"Data from pedometer: 21 steps",,,2017-06-19T15:08:14Z
+2017/06/19 12:16:14,Movement,7.00,minutes,,Easy,"Data from pedometer: 215 steps",,,2017-06-19T19:16:14Z
+2017/06/19 21:30:36,Blood Glucose,128.00,mg/dL,,,,,,2017-06-20T04:30:36Z
+2017/06/20 02:10:24,Blood Glucose,93.00,mg/dL,,,,,,2017-06-20T09:10:24Z
+2017/06/21 03:56:20,Blood Glucose,117.00,mg/dL,,,,,,2017-06-21T10:56:20Z
+2017/06/21 13:11:32,Movement,3.15,minutes,,Easy,"Data from pedometer: 100 steps",,,2017-06-21T20:11:32Z
+2017/06/21 13:18:58,Movement,10.36,minutes,,Easy,"Data from pedometer: 363 steps",,,2017-06-21T20:18:58Z
+2017/06/21 13:32:29,Movement,10.83,minutes,,Easy,"Data from pedometer: 490 steps",,,2017-06-21T20:32:29Z
+2017/06/21 13:50:05,Movement,3.65,minutes,,Easy,"Data from pedometer: 125 steps",,,2017-06-21T20:50:05Z
+2017/06/21 16:26:24,Movement,3.16,minutes,,Easy,"Data from pedometer: 8 steps",,,2017-06-21T23:26:24Z
+2017/06/21 19:33:31,Movement,13.52,minutes,,Easy,"Data from pedometer: 239 steps",,,2017-06-22T02:33:31Z
+2017/06/21 20:00:18,Movement,3.79,minutes,,Easy,"Data from pedometer: 104 steps",,,2017-06-22T03:00:18Z
+2017/06/21 20:09:46,Movement,14.92,minutes,,Easy,"Data from pedometer: 369 steps",,,2017-06-22T03:09:46Z
+2017/06/21 21:39:03,Blood Glucose,205.00,mg/dL,,,,,,2017-06-22T04:39:03Z
+2017/06/22 05:29:44,Blood Glucose,136.00,mg/dL,,,,,,2017-06-22T12:29:44Z
+2017/06/22 07:50:24,Movement,7.64,minutes,,Easy,"Data from pedometer: 155 steps",,,2017-06-22T14:50:24Z
+2017/06/22 08:23:17,Movement,4.01,minutes,,Easy,"Data from pedometer: 134 steps",,,2017-06-22T15:23:17Z
+2017/06/22 17:06:07,Movement,32.74,minutes,,Easy,"Data from pedometer: 798 steps",,,2017-06-23T00:06:07Z
+2017/06/22 17:49:02,Movement,14.32,minutes,,Easy,"Data from pedometer: 271 steps",,,2017-06-23T00:49:02Z
+2017/06/22 18:06:23,Movement,35.68,minutes,,Easy,"Data from pedometer: 1,463 steps",,,2017-06-23T01:06:23Z
+2017/06/22 22:11:07,Blood Glucose,157.00,mg/dL,,,,,,2017-06-23T05:11:07Z
+2017/06/23 04:19:23,Blood Glucose,95.00,mg/dL,,,,,,2017-06-23T11:19:23Z
+2017/06/23 14:33:27,Movement,9.61,minutes,,Easy,"Data from pedometer: 379 steps",,,2017-06-23T21:33:27Z
+2017/06/23 21:05:07,Blood Glucose,186.00,mg/dL,,,,,,2017-06-24T04:05:07Z
+2017/06/24 06:46:02,Blood Glucose,146.00,mg/dL,,,,,,2017-06-24T13:46:02Z
+2017/06/24 09:56:58,Movement,6.44,minutes,,Easy,"Data from pedometer: 281 steps",,,2017-06-24T16:56:58Z
+2017/06/24 18:11:55,Movement,10.11,minutes,,Easy,"Data from pedometer: 332 steps",,,2017-06-25T01:11:55Z
+2017/06/24 18:25:06,Movement,5.76,minutes,,Easy,"Data from pedometer: 72 steps",,,2017-06-25T01:25:06Z
+2017/06/24 22:44:32,Blood Glucose,141.00,mg/dL,,,,,,2017-06-25T05:44:32Z
+2017/06/25 06:30:52,Blood Glucose,124.00,mg/dL,,,,,,2017-06-25T13:30:52Z
+2017/06/25 23:07:30,Blood Glucose,207.00,mg/dL,,,,,,2017-06-26T06:07:30Z
+2017/06/26 06:09:38,Blood Glucose,129.00,mg/dL,,,,,,2017-06-26T13:09:38Z
+2017/06/26 13:52:56,Movement,3.14,minutes,,Easy,"Data from pedometer: 154 steps",,,2017-06-26T20:52:56Z
+2017/06/26 13:59:17,Movement,5.18,minutes,,Easy,"Data from pedometer: 9 steps",,,2017-06-26T20:59:17Z
+2017/06/26 14:17:19,Movement,7.57,minutes,,Easy,"Data from pedometer: 248 steps",,,2017-06-26T21:17:19Z
+2017/06/26 15:37:36,Movement,7.58,minutes,,Easy,"Data from pedometer: 496 steps",,,2017-06-26T22:37:36Z
+2017/06/27 14:26:35,Movement,3.50,minutes,,Easy,"Data from pedometer: 73 steps",,,2017-06-27T21:26:35Z
+2017/06/27 14:34:26,Movement,4.01,minutes,,Easy,"Data from pedometer: 106 steps",,,2017-06-27T21:34:26Z
+2017/06/28 04:30:41,Blood Glucose,112.00,mg/dL,,,,,,2017-06-28T11:30:41Z
+2017/06/29 05:49:51,Blood Glucose,160.00,mg/dL,,,,,,2017-06-29T12:49:51Z
+2017/06/29 09:20:23,Movement,11.40,minutes,,Easy,"Data from pedometer: 442 steps",,,2017-06-29T16:20:23Z
+2017/06/29 09:54:26,Movement,13.66,minutes,,Easy,"Data from pedometer: 451 steps",,,2017-06-29T16:54:26Z
+2017/06/30 06:09:18,Blood Glucose,152.00,mg/dL,,,,,,2017-06-30T13:09:18Z
+2017/06/30 16:28:09,Movement,13.18,minutes,,Easy,"Data from pedometer: 364 steps",,,2017-06-30T23:28:09Z
+2017/07/01 05:07:22,Blood Glucose,184.00,mg/dL,,,,,,2017-07-01T12:07:22Z
+2017/07/01 15:27:37,Movement,3.81,minutes,,Easy,"Data from pedometer: 162 steps",,,2017-07-01T22:27:37Z
+2017/07/01 15:40:31,Movement,3.59,minutes,,Easy,"Data from pedometer: 136 steps",,,2017-07-01T22:40:31Z
+2017/07/01 16:19:52,Movement,7.64,minutes,,Easy,"Data from pedometer: 225 steps",,,2017-07-01T23:19:52Z
+2017/07/01 16:34:30,Movement,12.60,minutes,,Easy,"Data from pedometer: 210 steps",,,2017-07-01T23:34:30Z
+2017/07/01 16:48:01,Movement,8.71,minutes,,Easy,"Data from pedometer: 36 steps",,,2017-07-01T23:48:01Z
+2017/07/01 16:58:48,Movement,5.90,minutes,,Easy,"Data from pedometer: 43 steps",,,2017-07-01T23:58:48Z
+2017/07/01 17:06:17,Movement,3.92,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-07-02T00:06:17Z
+2017/07/01 20:11:37,Blood Glucose,149.00,mg/dL,,,,,,2017-07-02T03:11:37Z
+2017/07/02 05:09:04,Blood Glucose,145.00,mg/dL,,,,,,2017-07-02T12:09:04Z
+2017/07/02 20:40:32,Movement,11.83,minutes,,Easy,"Data from pedometer: 544 steps",,,2017-07-03T03:40:32Z
+2017/07/02 21:28:33,Blood Glucose,169.00,mg/dL,,,,,,2017-07-03T04:28:33Z
+2017/07/03 04:20:42,Blood Glucose,147.00,mg/dL,,,,,,2017-07-03T11:20:42Z
+2017/07/04 05:00:27,Blood Glucose,109.00,mg/dL,,,,,,2017-07-04T12:00:27Z
+2017/07/04 19:49:24,Blood Glucose,145.00,mg/dL,,,,,,2017-07-05T02:49:24Z
+2017/07/05 05:09:22,Blood Glucose,117.00,mg/dL,,,,,,2017-07-05T12:09:22Z
+2017/07/05 08:51:02,Movement,8.69,minutes,,Easy,"Data from pedometer: 83 steps",,,2017-07-05T15:51:02Z
+2017/07/05 14:18:31,Blood Glucose,150.00,mg/dL,,,,,,2017-07-05T21:18:31Z
+2017/07/05 16:34:25,Movement,4.26,minutes,,Easy,"Data from pedometer: 25 steps",,,2017-07-05T23:34:25Z
+2017/07/05 17:19:25,Movement,7.65,minutes,,Easy,"Data from pedometer: 42 steps",,,2017-07-06T00:19:25Z
+2017/07/05 17:36:05,Movement,16.91,minutes,,Easy,"Data from pedometer: 579 steps",,,2017-07-06T00:36:05Z
+2017/07/05 18:02:36,Movement,9.60,minutes,,Easy,"Data from pedometer: 59 steps",,,2017-07-06T01:02:36Z
+2017/07/05 18:56:18,Movement,3.17,minutes,,Easy,"Data from pedometer: 55 steps",,,2017-07-06T01:56:18Z
+2017/07/05 19:29:32,Blood Glucose,263.00,mg/dL,,,,,,2017-07-06T02:29:32Z
+2017/07/06 05:50:11,Blood Glucose,108.00,mg/dL,,,,,,2017-07-06T12:50:11Z
+2017/07/06 20:20:49,Blood Glucose,168.00,mg/dL,,,,,,2017-07-07T03:20:49Z
+2017/07/07 02:57:51,Blood Glucose,124.00,mg/dL,,,,,,2017-07-07T09:57:51Z
+2017/07/07 16:51:46,Movement,14.88,minutes,,Easy,"Data from pedometer: 928 steps",,,2017-07-07T23:51:46Z
+2017/07/08 04:50:10,Blood Glucose,136.00,mg/dL,,,,,,2017-07-08T11:50:10Z
+2017/07/08 11:22:36,Movement,4.03,minutes,,Easy,"Data from pedometer: 77 steps",,,2017-07-08T18:22:36Z
+2017/07/08 12:09:13,Movement,17.64,minutes,,Easy,"Data from pedometer: 1,596 steps",,,2017-07-08T19:09:13Z
+2017/07/08 12:26:54,Movement,37.83,minutes,,Easy,"Data from pedometer: 3,124 steps",,,2017-07-08T19:26:54Z
+2017/07/08 13:10:07,Movement,9.98,minutes,,Easy,"Data from pedometer: 923 steps",,,2017-07-08T20:10:07Z
+2017/07/08 13:28:11,Movement,5.08,minutes,,Easy,"Data from pedometer: 472 steps",,,2017-07-08T20:28:11Z
+2017/07/08 13:41:50,Movement,18.98,minutes,,Easy,"Data from pedometer: 1,754 steps",,,2017-07-08T20:41:50Z
+2017/07/08 14:06:19,Movement,12.71,minutes,,Easy,"Data from pedometer: 774 steps",,,2017-07-08T21:06:19Z
+2017/07/08 14:50:23,Movement,13.72,minutes,,Easy,"Data from pedometer: 1,087 steps",,,2017-07-08T21:50:23Z
+2017/07/08 15:54:37,Blood Glucose,207.00,mg/dL,,,,,,2017-07-08T22:54:37Z
+2017/07/09 06:15:38,Blood Glucose,135.00,mg/dL,,,,,,2017-07-09T13:15:38Z
+2017/07/10 07:46:14,Movement,28.52,minutes,,Easy,"Data from pedometer: 736 steps",,,2017-07-10T14:46:14Z
+2017/07/11 07:12:40,Blood Glucose,123.00,mg/dL,,,,,,2017-07-11T14:12:40Z
+2017/07/11 07:33:55,Movement,6.53,minutes,,Easy,"Data from pedometer: 312 steps",,,2017-07-11T14:33:55Z
+2017/07/11 07:43:26,Movement,5.08,minutes,,Easy,"Data from pedometer: 262 steps",,,2017-07-11T14:43:26Z
+2017/07/12 05:18:59,Blood Glucose,206.00,mg/dL,,,,,,2017-07-12T12:18:59Z
+2017/07/13 05:24:14,Blood Glucose,124.00,mg/dL,,,,,,2017-07-13T12:24:14Z
+2017/07/14 05:52:05,Blood Glucose,94.00,mg/dL,,,,,,2017-07-14T12:52:05Z
+2017/07/14 16:03:40,Movement,18.54,minutes,,Easy,"Data from pedometer: 548 steps",,,2017-07-14T23:03:40Z
+2017/07/15 16:13:09,Blood Glucose,254.00,mg/dL,,,,,,2017-07-15T23:13:09Z
+2017/07/17 10:36:31,Blood Glucose,212.00,mg/dL,,,,,,2017-07-17T17:36:31Z
+2017/07/18 06:19:20,Movement,3.58,minutes,,Easy,"Data from pedometer: 25 steps",,,2017-07-18T13:19:20Z
+2017/07/18 09:19:32,Movement,4.61,minutes,,Easy,"Data from pedometer: 87 steps",,,2017-07-18T16:19:32Z
+2017/07/18 14:08:36,Movement,11.68,minutes,,Easy,"Data from pedometer: 732 steps",,,2017-07-18T21:08:36Z
+2017/07/18 18:06:40,Movement,4.85,minutes,,Easy,"Data from pedometer: 99 steps",,,2017-07-19T01:06:40Z
+2017/07/18 18:43:33,Movement,4.42,minutes,,Easy,"Data from pedometer: 106 steps",,,2017-07-19T01:43:33Z
+2017/07/18 21:01:43,Movement,36.93,minutes,,Easy,"Data from pedometer: 456 steps",,,2017-07-19T04:01:43Z
+2017/07/19 08:34:47,Movement,4.74,minutes,,Easy,"Data from pedometer: 5 steps",,,2017-07-19T15:34:47Z
+2017/07/19 11:41:11,Movement,7.53,minutes,,Easy,"Data from pedometer: 401 steps",,,2017-07-19T18:41:11Z
+2017/07/19 18:27:55,Movement,5.05,minutes,,Easy,"Data from pedometer: 32 steps",,,2017-07-20T01:27:55Z
+2017/07/19 18:54:47,Movement,6.50,minutes,,Easy,"Data from pedometer: 424 steps",,,2017-07-20T01:54:47Z
+2017/07/19 20:01:53,Movement,9.04,minutes,,Easy,"Data from pedometer: 163 steps",,,2017-07-20T03:01:53Z
+2017/07/19 20:29:07,Movement,6.02,minutes,,Easy,"Data from pedometer: 21 steps",,,2017-07-20T03:29:07Z
+2017/07/20 08:23:50,Movement,8.05,minutes,,Easy,"Data from pedometer: 62 steps",,,2017-07-20T15:23:50Z
+2017/07/20 08:39:27,Movement,4.31,minutes,,Easy,"Data from pedometer: 14 steps",,,2017-07-20T15:39:27Z
+2017/07/20 20:01:34,Movement,10.76,minutes,,Easy,"Data from pedometer: 117 steps",,,2017-07-21T03:01:34Z
+2017/07/21 08:15:27,Movement,5.60,minutes,,Easy,"Data from pedometer: 18 steps",,,2017-07-21T15:15:27Z
+2017/07/21 08:48:32,Movement,3.25,minutes,,Easy,"Data from pedometer: 7 steps",,,2017-07-21T15:48:32Z
+2017/07/21 16:45:09,Movement,3.65,minutes,,Easy,"Data from pedometer: 4 steps",,,2017-07-21T23:45:09Z
+2017/07/21 17:06:28,Movement,18.32,minutes,,Easy,"Data from pedometer: 961 steps",,,2017-07-22T00:06:28Z
+2017/07/22 08:24:36,Movement,4.06,minutes,,Easy,"Data from pedometer: 21 steps",,,2017-07-22T15:24:36Z
+2017/07/22 17:26:28,Movement,9.85,minutes,,Easy,"Data from pedometer: 315 steps",,,2017-07-23T00:26:28Z
+2017/07/22 18:43:47,Movement,4.46,minutes,,Easy,"Data from pedometer: 123 steps",,,2017-07-23T01:43:47Z
+2017/07/22 18:55:47,Movement,9.39,minutes,,Easy,"Data from pedometer: 753 steps",,,2017-07-23T01:55:47Z
+2017/07/22 19:32:24,Movement,4.29,minutes,,Easy,"Data from pedometer: 384 steps",,,2017-07-23T02:32:24Z
+2017/07/23 08:35:38,Movement,3.22,minutes,,Easy,"Data from pedometer: 220 steps",,,2017-07-23T15:35:38Z
+2017/07/23 10:34:38,Movement,6.19,minutes,,Easy,"Data from pedometer: 378 steps",,,2017-07-23T17:34:38Z
+2017/07/23 10:47:44,Movement,4.58,minutes,,Easy,"Data from pedometer: 330 steps",,,2017-07-23T17:47:44Z
+2017/07/23 20:05:56,Movement,4.75,minutes,,Easy,"Data from pedometer: 145 steps",,,2017-07-24T03:05:56Z
+2017/07/23 20:28:32,Movement,11.13,minutes,,Easy,"Data from pedometer: 430 steps",,,2017-07-24T03:28:32Z
+2017/07/24 07:53:38,Movement,5.28,minutes,,Easy,"Data from pedometer: 216 steps",,,2017-07-24T14:53:38Z
+2017/07/24 13:14:26,Movement,5.82,minutes,,Easy,"Data from pedometer: 42 steps",,,2017-07-24T20:14:26Z
+2017/07/26 06:22:35,Blood Glucose,125.00,mg/dL,,,,,,2017-07-26T13:22:35Z
+2017/07/26 14:46:50,Movement,6.87,minutes,,Easy,"Data from pedometer: 94 steps",,,2017-07-26T21:46:50Z
+2017/07/26 14:54:35,Movement,11.54,minutes,,Easy,"Data from pedometer: 521 steps",,,2017-07-26T21:54:35Z
+2017/07/26 15:10:11,Movement,7.46,minutes,,Easy,"Data from pedometer: 228 steps",,,2017-07-26T22:10:11Z
+2017/07/26 15:19:14,Movement,5.87,minutes,,Easy,"Data from pedometer: 58 steps",,,2017-07-26T22:19:14Z
+2017/07/26 21:53:11,Blood Glucose,124.00,mg/dL,,,,,,2017-07-27T04:53:11Z
+2017/07/27 05:06:22,Blood Glucose,120.00,mg/dL,,,,,,2017-07-27T12:06:22Z
+2017/07/28 05:06:43,Blood Glucose,138.00,mg/dL,,,,,,2017-07-28T12:06:43Z
+2017/07/28 08:36:52,Movement,7.55,minutes,,Easy,"Data from pedometer: 83 steps",,,2017-07-28T15:36:52Z
+2017/07/28 09:12:49,Movement,3.54,minutes,,Easy,"Data from pedometer: 142 steps",,,2017-07-28T16:12:49Z
+2017/07/28 09:24:44,Movement,7.07,minutes,,Easy,"Data from pedometer: 214 steps",,,2017-07-28T16:24:44Z
+2017/07/28 13:46:17,Movement,4.02,minutes,,Easy,"Data from pedometer: 88 steps",,,2017-07-28T20:46:17Z
+2017/07/28 13:58:52,Movement,23.93,minutes,,Easy,"Data from pedometer: 2,227 steps",,,2017-07-28T20:58:52Z
+2017/07/28 15:19:50,Movement,3.15,minutes,,Easy,"Data from pedometer: 84 steps",,,2017-07-28T22:19:50Z
+2017/07/28 15:49:06,Movement,4.49,minutes,,Easy,"Data from pedometer: 76 steps",,,2017-07-28T22:49:06Z
+2017/07/28 16:23:12,Movement,3.25,minutes,,Easy,"Data from pedometer: 129 steps",,,2017-07-28T23:23:12Z
+2017/07/28 16:29:48,Movement,11.43,minutes,,Easy,"Data from pedometer: 205 steps",,,2017-07-28T23:29:48Z
+2017/07/28 16:47:10,Movement,23.19,minutes,,Easy,"Data from pedometer: 2,096 steps",,,2017-07-28T23:47:10Z
+2017/07/28 17:21:33,Movement,6.99,minutes,,Easy,"Data from pedometer: 152 steps",,,2017-07-29T00:21:33Z
+2017/07/28 22:07:49,Blood Glucose,167.00,mg/dL,,,,,,2017-07-29T05:07:49Z
+2017/07/30 07:07:15,Blood Glucose,140.00,mg/dL,,,,,,2017-07-30T14:07:15Z
+2017/08/01 05:02:02,Blood Glucose,96.00,mg/dL,,,,,,2017-08-01T12:02:02Z
+2017/08/01 15:19:43,Movement,3.25,minutes,,Easy,"Data from pedometer: 21 steps",,,2017-08-01T22:19:43Z
+2017/08/02 03:04:35,Blood Glucose,91.00,mg/dL,,,,,,2017-08-02T10:04:35Z
+2017/08/02 19:24:07,Movement,5.67,minutes,,Easy,"Data from pedometer: 243 steps",,,2017-08-03T02:24:07Z
+2017/08/03 15:42:13,Movement,3.08,minutes,,Easy,"Data from pedometer: 32 steps",,,2017-08-03T22:42:13Z
+2017/08/05 16:25:48,Movement,22.57,minutes,,Easy,"Data from pedometer: 578 steps",,,2017-08-05T23:25:48Z
+2017/08/06 06:08:42,Blood Glucose,155.00,mg/dL,,,,,,2017-08-06T13:08:42Z
+2017/08/06 15:57:35,Movement,7.35,minutes,,Easy,"Data from pedometer: 124 steps",,,2017-08-06T22:57:35Z
+2017/08/06 16:41:04,Movement,6.22,minutes,,Easy,"Data from pedometer: 393 steps",,,2017-08-06T23:41:04Z
+2017/08/07 04:06:57,Blood Glucose,131.00,mg/dL,,,,,,2017-08-07T11:06:57Z
+2017/08/07 19:23:40,Movement,18.49,minutes,,Easy,"Data from pedometer: 1,725 steps",,,2017-08-08T02:23:40Z
+2017/08/07 20:05:49,Movement,17.82,minutes,,Easy,"Data from pedometer: 1,799 steps",,,2017-08-08T03:05:49Z
+2017/08/08 11:39:01,Movement,7.37,minutes,,Easy,"Data from pedometer: 67 steps",,,2017-08-08T18:39:01Z
+2017/08/08 12:00:52,Movement,10.16,minutes,,Easy,"Data from pedometer: 152 steps",,,2017-08-08T19:00:52Z
+2017/08/08 12:25:51,Movement,19.50,minutes,,Easy,"Data from pedometer: 836 steps",,,2017-08-08T19:25:51Z
+2017/08/08 12:46:46,Movement,7.58,minutes,,Easy,"Data from pedometer: 417 steps",,,2017-08-08T19:46:46Z
+2017/08/10 11:59:52,Movement,4.62,minutes,,Easy,"Data from pedometer: 51 steps",,,2017-08-10T18:59:52Z
+2017/08/10 12:14:45,Movement,3.38,minutes,,Easy,"Data from pedometer: 154 steps",,,2017-08-10T19:14:45Z
+2017/08/11 06:17:58,Blood Glucose,132.00,mg/dL,,,,,,2017-08-11T13:17:58Z
+2017/08/11 09:21:22,Movement,5.64,minutes,,Easy,"Data from pedometer: 192 steps",,,2017-08-11T16:21:22Z
+2017/08/12 05:36:06,Blood Glucose,122.00,mg/dL,,,,,,2017-08-12T12:36:06Z
+2017/08/12 13:07:58,Movement,3.24,minutes,,Easy,"Data from pedometer: 92 steps",,,2017-08-12T20:07:58Z
+2017/08/12 13:13:02,Movement,24.77,minutes,,Easy,"Data from pedometer: 1,035 steps",,,2017-08-12T20:13:02Z
+2017/08/12 13:45:41,Movement,4.52,minutes,,Easy,"Data from pedometer: 59 steps",,,2017-08-12T20:45:41Z
+2017/08/12 19:35:15,Blood Glucose,188.00,mg/dL,,,,,,2017-08-13T02:35:15Z
+2017/08/13 05:50:27,Blood Glucose,140.00,mg/dL,,,,,,2017-08-13T12:50:27Z
+2017/08/13 14:24:04,Movement,4.04,minutes,,Easy,"Data from pedometer: 59 steps",,,2017-08-13T21:24:04Z
+2017/08/14 03:26:11,Blood Glucose,120.00,mg/dL,,,,,,2017-08-14T10:26:11Z
+2017/08/14 13:28:08,Movement,4.81,minutes,,Easy,"Data from pedometer: 82 steps",,,2017-08-14T20:28:08Z
+2017/08/14 14:31:49,Movement,11.62,minutes,,Easy,"Data from pedometer: 295 steps",,,2017-08-14T21:31:49Z
+2017/08/14 15:06:58,Movement,3.07,minutes,,Easy,"Data from pedometer: 92 steps",,,2017-08-14T22:06:58Z
+2017/08/15 08:46:54,Blood Glucose,128.00,mg/dL,,,,,,2017-08-15T15:46:54Z
+2017/08/16 20:15:40,Blood Glucose,138.00,mg/dL,,,,,,2017-08-17T03:15:40Z
+2017/08/17 06:07:10,Blood Glucose,104.00,mg/dL,,,,,,2017-08-17T13:07:10Z
+2017/08/19 07:05:18,Blood Glucose,111.00,mg/dL,,,,,,2017-08-19T14:05:18Z
+2017/08/20 05:50:47,Blood Glucose,116.00,mg/dL,,,,,,2017-08-20T12:50:47Z
+2017/08/21 03:57:30,Blood Glucose,102.00,mg/dL,,,,,,2017-08-21T10:57:30Z
+2017/08/23 07:32:52,Blood Glucose,108.00,mg/dL,,,,,,2017-08-23T14:32:52Z
+2017/08/29 07:27:59,Blood Glucose,181.00,mg/dL,,,,,,2017-08-29T14:27:59Z
+2017/08/30 03:24:25,Blood Glucose,118.00,mg/dL,,,,,,2017-08-30T10:24:25Z
+2017/08/31 06:34:00,Blood Glucose,136.00,mg/dL,,,,,,2017-08-31T13:34:00Z
+2017/09/01 03:03:43,Blood Glucose,125.00,mg/dL,,,,,,2017-09-01T10:03:43Z
+2017/09/01 20:58:25,Blood Glucose,71.00,mg/dL,,,,,,2017-09-02T03:58:25Z
+2017/09/02 04:48:00,Blood Glucose,121.00,mg/dL,,,,,,2017-09-02T11:48:00Z
+2017/09/02 21:08:21,Blood Glucose,100.00,mg/dL,,,,,,2017-09-03T04:08:21Z
+2017/09/03 03:52:47,Blood Glucose,101.00,mg/dL,,,,,,2017-09-03T10:52:47Z
+2017/09/03 12:41:32,Blood Glucose,126.00,mg/dL,,,,,,2017-09-03T19:41:32Z
+2017/09/04 05:41:29,Blood Glucose,114.00,mg/dL,,,,,,2017-09-04T12:41:29Z
+2017/09/05 05:13:59,Blood Glucose,88.00,mg/dL,,,,,,2017-09-05T12:13:59Z
+2017/09/05 18:11:10,Blood Glucose,89.00,mg/dL,,,,,,2017-09-06T01:11:10Z
+2017/09/06 04:02:12,Blood Glucose,96.00,mg/dL,,,,,,2017-09-06T11:02:12Z
+2017/09/07 06:09:41,Blood Glucose,104.00,mg/dL,,,,,,2017-09-07T13:09:41Z
+2017/09/07 22:24:58,Blood Glucose,137.00,mg/dL,,,,,,2017-09-08T05:24:58Z
+2017/09/08 05:00:51,Blood Glucose,101.00,mg/dL,,,,,,2017-09-08T12:00:51Z
+2017/09/08 23:19:09,Blood Glucose,90.00,mg/dL,,,,,,2017-09-09T06:19:09Z
+2017/09/09 05:44:46,Blood Glucose,88.00,mg/dL,,,,,,2017-09-09T12:44:46Z
+2017/09/10 06:32:14,Blood Glucose,107.00,mg/dL,,,,,,2017-09-10T13:32:14Z
+2017/09/11 00:08:36,Blood Glucose,102.00,mg/dL,,,,,,2017-09-11T07:08:36Z
+2017/09/13 04:35:39,Blood Glucose,214.00,mg/dL,,,,,,2017-09-13T11:35:39Z
+2017/09/14 04:51:47,Blood Glucose,107.00,mg/dL,,,,,,2017-09-14T11:51:47Z
+2017/09/15 04:36:03,Blood Glucose,126.00,mg/dL,,,,,,2017-09-15T11:36:03Z
+2017/09/19 05:29:30,Blood Glucose,132.00,mg/dL,,,,,,2017-09-19T12:29:30Z
+2017/09/20 06:08:46,Blood Glucose,103.00,mg/dL,,,,,,2017-09-20T13:08:46Z
+2017/09/21 04:39:40,Blood Glucose,107.00,mg/dL,,,,,,2017-09-21T11:39:40Z
+2017/09/22 05:42:14,Blood Glucose,124.00,mg/dL,,,,,,2017-09-22T12:42:14Z
+2017/09/28 07:40:12,Blood Glucose,132.00,mg/dL,,,,,,2017-09-28T14:40:12Z
+2017/09/28 21:55:21,Blood Glucose,108.00,mg/dL,,,,,,2017-09-29T04:55:21Z
+2017/10/01 03:16:19,Blood Glucose,125.00,mg/dL,,,,,,2017-10-01T10:16:19Z
+2017/10/01 20:35:44,Blood Glucose,296.00,mg/dL,,,,,,2017-10-02T03:35:44Z
+2017/10/02 07:20:06,Blood Glucose,119.00,mg/dL,,,,,,2017-10-02T14:20:06Z
+2017/10/03 07:57:15,Blood Glucose,163.00,mg/dL,,,,,,2017-10-03T14:57:15Z
+2017/10/05 04:03:48,Blood Glucose,117.00,mg/dL,,,,,,2017-10-05T11:03:48Z
+2017/10/07 03:55:03,Blood Glucose,123.00,mg/dL,,,,,,2017-10-07T10:55:03Z
+2017/10/08 05:36:02,Blood Glucose,156.00,mg/dL,,,,,,2017-10-08T12:36:02Z
+2017/10/11 04:38:55,Blood Glucose,99.00,mg/dL,,,,,,2017-10-11T11:38:55Z
+2017/10/12 07:14:42,Blood Glucose,123.00,mg/dL,,,,,,2017-10-12T14:14:42Z
+2017/10/13 03:43:08,Blood Glucose,126.00,mg/dL,,,,,,2017-10-13T10:43:08Z
+2017/10/13 15:27:36,Blood Glucose,232.00,mg/dL,,,,,,2017-10-13T22:27:36Z
+2017/10/15 03:37:11,Blood Glucose,120.00,mg/dL,,,,,,2017-10-15T10:37:11Z
+2017/10/18 04:56:27,Blood Glucose,141.00,mg/dL,,,,,,2017-10-18T11:56:27Z
+2017/10/22 05:43:30,Blood Glucose,168.00,mg/dL,,,,,,2017-10-22T12:43:30Z
+2017/10/23 08:25:15,Blood Glucose,147.00,mg/dL,,,,,,2017-10-23T15:25:15Z
+2017/10/24 03:07:57,Blood Glucose,150.00,mg/dL,,,,,,2017-10-24T10:07:57Z
+2017/10/30 04:14:02,Blood Glucose,107.00,mg/dL,,,,,,2017-10-30T11:14:02Z
+2017/11/02 04:53:36,Blood Glucose,145.00,mg/dL,,,,,,2017-11-02T11:53:36Z
+2017/11/06 05:38:38,Blood Glucose,111.00,mg/dL,,,,,,2017-11-06T13:38:38Z
+2017/11/07 06:36:55,Blood Glucose,116.00,mg/dL,,,,,,2017-11-07T14:36:55Z
+2017/11/07 16:57:58,Blood Glucose,125.00,mg/dL,,,,,,2017-11-08T00:57:58Z
+2017/11/09 20:34:04,Blood Glucose,168.00,mg/dL,,,,,,2017-11-10T04:34:04Z
+2017/11/10 18:54:01,Blood Glucose,124.00,mg/dL,,,,,,2017-11-11T02:54:01Z
+2017/11/11 03:58:33,Blood Glucose,96.00,mg/dL,,,,,,2017-11-11T11:58:33Z
+2017/11/12 06:20:25,Blood Glucose,137.00,mg/dL,,,,,,2017-11-12T14:20:25Z
+2017/11/12 23:16:13,Blood Glucose,131.00,mg/dL,,,,,,2017-11-13T07:16:13Z
+2017/11/13 03:08:11,Blood Glucose,103.00,mg/dL,,,,,,2017-11-13T11:08:11Z
+2017/11/15 06:33:46,Blood Glucose,114.00,mg/dL,,,,,,2017-11-15T14:33:46Z
+2017/11/15 20:36:05,Blood Glucose,135.00,mg/dL,,,,,,2017-11-16T04:36:05Z
+2017/11/16 05:26:18,Blood Glucose,141.00,mg/dL,,,,,,2017-11-16T13:26:18Z
+2017/11/17 07:49:50,Blood Glucose,78.00,mg/dL,,,,,,2017-11-17T15:49:50Z
+2017/11/17 14:22:44,Blood Glucose,105.00,mg/dL,,,,,,2017-11-17T22:22:44Z
+2017/11/18 07:19:00,Blood Glucose,108.00,mg/dL,,,,,,2017-11-18T15:19:00Z
+2017/11/20 03:38:10,Blood Glucose,116.00,mg/dL,,,,,,2017-11-20T11:38:10Z
+2017/11/28 05:42:09,Blood Glucose,122.00,mg/dL,,,,,,2017-11-28T13:42:09Z
+2017/12/09 05:31:38,Blood Glucose,110.00,mg/dL,,,,,,2017-12-09T13:31:38Z
+2017/12/10 02:21:09,Blood Glucose,92.00,mg/dL,,,,,,2017-12-10T10:21:09Z
+2017/12/14 06:10:42,Blood Glucose,118.00,mg/dL,,,,,,2017-12-14T14:10:42Z
+2017/12/14 23:14:46,Blood Glucose,204.00,mg/dL,,,,,,2017-12-15T07:14:46Z
+2017/12/15 06:45:53,Blood Glucose,134.00,mg/dL,,,,,,2017-12-15T14:45:53Z
+2017/12/16 00:20:15,Blood Glucose,111.00,mg/dL,,,,,,2017-12-16T08:20:15Z
+2017/12/16 19:59:02,Blood Glucose,119.00,mg/dL,,,,,,2017-12-17T03:59:02Z
+2017/12/17 05:04:20,Blood Glucose,105.00,mg/dL,,,,,,2017-12-17T13:04:20Z
+2017/12/18 05:13:34,Blood Glucose,116.00,mg/dL,,,,,,2017-12-18T13:13:34Z
+2017/12/19 06:57:43,Blood Glucose,120.00,mg/dL,,,,,,2017-12-19T14:57:43Z
+2017/12/20 03:46:03,Blood Glucose,104.00,mg/dL,,,,,,2017-12-20T11:46:03Z
+2017/12/20 22:04:55,Blood Glucose,105.00,mg/dL,,,,,,2017-12-21T06:04:55Z
+2017/12/21 06:19:22,Blood Glucose,111.00,mg/dL,,,,,,2017-12-21T14:19:22Z
+2017/12/21 21:39:09,Blood Glucose,107.00,mg/dL,,,,,,2017-12-22T05:39:09Z
+2017/12/22 04:31:29,Blood Glucose,104.00,mg/dL,,,,,,2017-12-22T12:31:29Z
+2017/12/22 18:56:47,Blood Glucose,122.00,mg/dL,,,,,,2017-12-23T02:56:47Z
+2017/12/23 05:22:38,Blood Glucose,91.00,mg/dL,,,,,,2017-12-23T13:22:38Z
+2017/12/23 23:16:11,Blood Glucose,120.00,mg/dL,,,,,,2017-12-24T07:16:11Z
+2017/12/24 07:10:40,Blood Glucose,171.00,mg/dL,,,,,,2017-12-24T15:10:40Z
+2017/12/24 19:07:20,Blood Glucose,151.00,mg/dL,,,,,,2017-12-25T03:07:20Z
+2017/12/24 22:49:42,Blood Glucose,166.00,mg/dL,,,,,,2017-12-25T06:49:42Z
+2017/12/25 04:20:40,Blood Glucose,112.00,mg/dL,,,,,,2017-12-25T12:20:40Z
+2017/12/26 03:18:53,Blood Glucose,115.00,mg/dL,,,,,,2017-12-26T11:18:53Z
+2017/12/27 03:52:59,Blood Glucose,120.00,mg/dL,,,,,,2017-12-27T11:52:59Z
+2017/12/27 23:22:56,Blood Glucose,134.00,mg/dL,,,,,,2017-12-28T07:22:56Z
+2017/12/28 06:32:33,Blood Glucose,108.00,mg/dL,,,,,,2017-12-28T14:32:33Z
+2017/12/28 19:06:55,Blood Glucose,107.00,mg/dL,,,,,,2017-12-29T03:06:55Z
+2017/12/30 04:04:19,Blood Glucose,104.00,mg/dL,,,,,,2017-12-30T12:04:19Z
+2017/12/31 00:11:40,Blood Glucose,114.00,mg/dL,,,,,,2017-12-31T08:11:40Z
+2017/12/31 07:03:38,Blood Glucose,85.00,mg/dL,,,,,,2017-12-31T15:03:38Z
+2017/12/31 18:14:47,Blood Glucose,143.00,mg/dL,,,,,,2018-01-01T02:14:47Z
+2018/01/01 02:56:21,Blood Glucose,74.00,mg/dL,,,,,,2018-01-01T10:56:21Z
+2018/01/02 07:18:28,Blood Glucose,126.00,mg/dL,,,,,,2018-01-02T15:18:28Z
+2018/01/03 03:29:39,Blood Glucose,90.00,mg/dL,,,,,,2018-01-03T11:29:39Z
+2018/01/04 05:24:56,Blood Glucose,73.00,mg/dL,,,,,,2018-01-04T13:24:56Z
+2018/01/04 19:56:57,Blood Glucose,151.00,mg/dL,,,,,,2018-01-05T03:56:57Z
+2018/01/05 07:14:47,Blood Glucose,125.00,mg/dL,,,,,,2018-01-05T15:14:47Z
+2018/01/05 20:09:23,Blood Glucose,140.00,mg/dL,,,,,,2018-01-06T04:09:23Z
+2018/01/06 02:34:19,Blood Glucose,92.00,mg/dL,,,,,,2018-01-06T10:34:19Z
+2018/01/07 02:54:32,Blood Glucose,130.00,mg/dL,,,,,,2018-01-07T10:54:32Z
+2018/01/08 06:33:49,Blood Glucose,176.00,mg/dL,,,,,,2018-01-08T14:33:49Z
+2018/01/08 18:18:20,Blood Glucose,202.00,mg/dL,,,,,,2018-01-09T02:18:20Z
+2018/01/09 02:10:47,Blood Glucose,140.00,mg/dL,,,,,,2018-01-09T10:10:47Z
+2018/01/09 20:21:51,Blood Glucose,195.00,mg/dL,,,,,,2018-01-10T04:21:51Z
+2018/01/10 05:38:59,Blood Glucose,146.00,mg/dL,,,,,,2018-01-10T13:38:59Z
+2018/01/10 05:39:17,Blood Glucose,150.00,mg/dL,,,,,,2018-01-10T13:39:17Z
+2018/01/14 05:15:44,Blood Glucose,122.00,mg/dL,,,,,,2018-01-14T13:15:44Z
+2018/01/15 07:22:52,Blood Glucose,106.00,mg/dL,,,,,,2018-01-15T15:22:52Z
+2018/01/15 21:48:02,Blood Glucose,129.00,mg/dL,,,,,,2018-01-16T05:48:02Z
+2018/01/16 04:40:17,Blood Glucose,74.00,mg/dL,,,,,,2018-01-16T12:40:17Z
+2018/01/17 04:44:47,Blood Glucose,123.00,mg/dL,,,,,,2018-01-17T12:44:47Z
+2018/01/17 19:58:03,Blood Glucose,161.00,mg/dL,,,,,,2018-01-18T03:58:03Z
+2018/01/18 06:43:06,Blood Glucose,116.00,mg/dL,,,,,,2018-01-18T14:43:06Z
+2018/01/18 21:29:21,Blood Glucose,204.00,mg/dL,,,,,,2018-01-19T05:29:21Z
+2018/01/19 04:37:12,Blood Glucose,124.00,mg/dL,,,,,,2018-01-19T12:37:12Z
+2018/01/22 02:36:09,Blood Glucose,125.00,mg/dL,,,,,,2018-01-22T10:36:09Z
+2018/01/25 07:04:51,Blood Glucose,124.00,mg/dL,,,,,,2018-01-25T15:04:51Z
+2018/01/26 09:48:04,Blood Glucose,127.00,mg/dL,,,,,,2018-01-26T17:48:04Z
+2018/01/30 03:49:36,Blood Glucose,139.00,mg/dL,,,,,,2018-01-30T11:49:36Z
+2018/02/01 05:00:35,Blood Glucose,126.00,mg/dL,,,,,,2018-02-01T13:00:35Z
+2018/02/02 04:37:39,Blood Glucose,93.00,mg/dL,,,,,,2018-02-02T12:37:39Z
+2018/02/05 03:11:30,Blood Glucose,100.00,mg/dL,,,,,,2018-02-05T11:11:30Z
+2018/02/06 03:27:06,Blood Glucose,106.00,mg/dL,,,,,,2018-02-06T11:27:06Z
+2018/02/12 04:11:14,Blood Glucose,115.00,mg/dL,,,,,,2018-02-12T12:11:14Z
+2018/02/21 04:03:20,Blood Glucose,88.00,mg/dL,,,,,,2018-02-21T12:03:20Z
+2018/02/23 05:53:30,Blood Glucose,106.00,mg/dL,,,,,,2018-02-23T13:53:30Z
+2018/03/01 06:35:11,Blood Glucose,105.00,mg/dL,,,,,,2018-03-01T14:35:11Z
+2018/03/02 02:09:22,Blood Glucose,106.00,mg/dL,,,,,,2018-03-02T10:09:22Z
+2018/03/05 21:11:59,Blood Glucose,164.00,mg/dL,,,,,,2018-03-06T05:11:59Z
+2018/03/06 03:51:42,Blood Glucose,125.00,mg/dL,,,,,,2018-03-06T11:51:42Z
+2018/03/07 03:34:38,Blood Glucose,129.00,mg/dL,,,,,,2018-03-07T11:34:38Z
+2018/03/08 03:01:16,Blood Glucose,132.00,mg/dL,,,,,,2018-03-08T11:01:16Z

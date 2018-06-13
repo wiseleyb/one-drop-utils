@@ -9,6 +9,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/data/old/
+/data/report-am-pm-out.csv
+/data/report-am-pm.csv
 
 # Used by dotenv library to load environment variables.
 # .env
