@@ -1,12 +1,12 @@
 # One Drop Utils
 
 Most diabetes docs will read your device at the office during your visit. My
-doc could read One Drop devices. They also wanted numbers for morning/evening.
+doc couldn't read One Drop devices. They also wanted numbers for morning/evening.
 This is a very simple ruby script to transform data.
 
 ## Caveat
 
-This is a total hack, no tests, etc. I figure no-one will use it but me. If it gets any ttraction happy to clean up.
+This is a total hack, no tests, etc. I figure no-one will use it but me. If it gets any traction I'm happy to clean up.
 
 ## Install
 
